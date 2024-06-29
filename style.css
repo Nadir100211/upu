@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    width: 100vw;
+    height: 100vh;
+        background: linear-gradient(  blue, green ,rgb(82, 153, 185 ));
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+.s{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 20vw;
+    height: 50vh;
+    background-color: rgba(218, 214, 214, 0.329);
+}
+.f{
+    justify-content: center;
+    align-items: center;  
+}
+input{
+    margin: 10px;
+    height: 30px;
+}
+.p{
+    width: 175px;
+    background-color: blue;
+}
+i{
+font-size: 50px
+}
